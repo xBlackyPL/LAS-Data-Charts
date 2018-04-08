@@ -1,0 +1,10 @@
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\bin\Debug\Profilowanie Geofizyczne WForms.exe.config
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\bin\Debug\Profilowanie Geofizyczne WForms.exe
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\bin\Debug\Profilowanie Geofizyczne WForms.pdb
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie Geofizyczne WForms.csprojResolveAssemblyReference.cache
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie_Geofizyczne_WForms.Properties.Resources.resources
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie Geofizyczne WForms.csproj.GenerateResource.Cache
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie Geofizyczne WForms.csproj.CoreCompileInputs.cache
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie Geofizyczne WForms.exe
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie Geofizyczne WForms.pdb
+C:\Users\xblac\OneDrive\Dokumenty\Programowanie\POwŚW\Profilowanie Geofizyczne WForms\Profilowanie Geofizyczne WForms\obj\Debug\Profilowanie_Geofizyczne_WForms.MainWindow.resources
