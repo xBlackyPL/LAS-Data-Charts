@@ -44,7 +44,7 @@ namespace Profilowanie_Geofizyczne_WForms
                     {
                         for (var i = 0; i < parts.Length; i++)
                         {
-                            if (keyWordBeginningIndex == (keyWordsBeginning.Length))
+                            if (keyWordBeginningIndex == keyWordsBeginning.Length)
                             {
                                 keyWordBeginningIndex = 0;
                                 headerInfo = false;
@@ -78,7 +78,6 @@ namespace Profilowanie_Geofizyczne_WForms
                         }
 
                         if (parts[0] != chartDataHeader[0] && parts[0] != chartDataHeader[1])
-                        {
                             for (var i = 0; i < numberOfColumns; i++)
                             {
                                 var dataString = parts[i].Split(delimiters)[0];
@@ -91,7 +90,6 @@ namespace Profilowanie_Geofizyczne_WForms
                                 var dataDouble = double.Parse(dataString, fmt);
                                 charts[chartsTitleList[i]].Add(dataDouble);
                             }
-                        }
                     }
                 }
             }
