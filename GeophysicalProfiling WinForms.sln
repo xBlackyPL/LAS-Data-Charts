@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeophysicalProfiling WinForms", "Profilowanie Geofizyczne WForms\GeophysicalProfiling WinForms.csproj", "{DF22520D-D805-4789-982D-CEA67738AEAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeophysicalProfiling WinForms", "GeophysicalProfiling WinForms\GeophysicalProfiling WinForms.csproj", "{DF22520D-D805-4789-982D-CEA67738AEAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
